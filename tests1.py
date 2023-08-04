@@ -12,4 +12,4 @@ def say_hello():
     print("Hello, decorator!")
 
 # Call the decorated function
-say_hello()
+say_hello()   # This part initilize the my_decoratordfsd
